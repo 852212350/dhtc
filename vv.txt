@@ -1,7 +1,7 @@
-¡¾°æ±¾Ãû¡¿4.8¡¾°æ±¾Ãû¡¿
-¡¾°æ±¾¡¿20196624¡¾°æ±¾¡¿
-¡¾ÄÚÈÝ¡¿
-1.Í»È»¸üÐÂ
-2.ÐÞ¸´1¸öbug ÐÂÔö2¸öBug
-¡¾ÄÚÈÝ¡¿
-¡¾Á´½Ó¡¿https://github.com/852212350/dhtc/dehongtongchengquan.apk¡¾Á´½Ó¡¿
+ã€ç‰ˆæœ¬åã€‘1.0.2ã€ç‰ˆæœ¬åã€‘
+ã€ç‰ˆæœ¬ã€‘1.0.2ã€ç‰ˆæœ¬ã€‘
+ã€å†…å®¹ã€‘
+1.çªç„¶æ›´æ–°
+2.ä¿®å¤1ä¸ªbug æ–°å¢ž2ä¸ªBug
+ã€å†…å®¹ã€‘
+ã€é“¾æŽ¥ã€‘https://github.com/852212350/dhtc/dehongtongchengquan.apkã€é“¾æŽ¥ã€‘
